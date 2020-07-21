@@ -1,0 +1,6 @@
+# GitHub-Exercise
+Practicing GitHub push, pull, remote, etc...
+
+I have already pushed my local repo without a README.md.
+Now I am creating a README.md and next I will pull this update to my local repo.
+Let's go...
